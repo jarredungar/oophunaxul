@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://inohyupai.rakeshbade.com/sitemap.xml
